@@ -1,4 +1,4 @@
-**Unless specified otherwise in the AIIP_exceptions folder of this repository, this project follows the guidelines outlined in the AI-Internship-Program repository.**
+***Unless specified otherwise in the AIIP_exceptions folder of this repository, this project follows the guidelines outlined in the AI-Internship-Program repository.***
 
 ---
 # 🌟 Strategist-small
