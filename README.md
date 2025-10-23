@@ -1,13 +1,11 @@
 
-# 🌟 Strategist-small
+# Strategist-small
 
-## 📋 Repo Description
+## Repo Description
 
 This repo contains the small version of Strategist.
 
 ---
 
-## 🚀 Get Started
-👉 Check [docs/README.md](docs/README.md) to learn more about the source code, and [CONTRIBUTING.md](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md) to start contributing.
-
-Happy Hacking! 💻✨
+## Getting Started
+Check [docs/README.md](docs/README.md) to learn more about the source code, and [CONTRIBUTING.md](https://github.com/intelligenxe/.github/blob/main/CONTRIBUTING.md) to start contributing.
